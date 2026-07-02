@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fleet Management System
 
 A Fleet Management System built using Node.js, Express.js, MongoDB, JWT Authentication, and React.
@@ -115,3 +116,6 @@ Screenshots are available in the screenshots folder.
 ## Author
 
 Mustafa
+=======
+# fleet-management
+>>>>>>> 957ac419f96e96438d2b8b996b223269296f5cb2
